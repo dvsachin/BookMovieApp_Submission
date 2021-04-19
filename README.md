@@ -1,4 +1,7 @@
 # BookMovieApp_Submission
  UpGrad_Frontend_Project_Module8
- 
- Working_Movie_app_ScreenSots_in_ScreenShots_folder
+
+--> to Start the Project
+	--> npm install in the root of the folder
+	--> npm start 
+	== start the application in port 3000
